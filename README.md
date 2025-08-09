@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dimension clone
 
 ## Getting Started
@@ -36,3 +37,6 @@ This project is built with:
 - Smooth animations and transitions
 - Web3 social networking components
 - Interactive UI elements
+=======
+# DimensionClone
+>>>>>>> 640f63acc788c5ed682a1cc67324848582714090
