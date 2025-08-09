@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Dimension clone
 
 ## Getting Started
